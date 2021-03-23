@@ -5,7 +5,6 @@
 - [Project Description](#Project-Description)
 - [Interacting with this project](#Interacting-with-this-project)
 - [File descriptions](#File-descriptions)
-- [Instructions](#Instructions)
 - [Acknowledgements](#Acknowledgements)
 - [License](#License)
 
