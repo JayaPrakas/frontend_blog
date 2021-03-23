@@ -1,0 +1,15 @@
+
+header{
+  grid-area: header;
+  height: 80px;
+  /*max-width: 100%;*/
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: rgb(219, 219, 27);
+}
